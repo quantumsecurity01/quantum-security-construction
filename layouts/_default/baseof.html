@@ -1,0 +1,11 @@
+<html>
+{{- partial "head.html" . -}}
+<body>
+{{- partial "header.html" . -}}
+<div content id="{{ i18n "
+" | urlize }}">
+{{- block "main" . }}{{- end }}
+</div>
+{{- partial "footer.html" . -}}
+</body>
+</html>
