@@ -9,6 +9,7 @@ removePathAccents = true
 # HTML before the closing </head>
 [params]
 customHead = ""
+companyName ="Quantum Security"
 
 # Navigation
 [params.navigation]
