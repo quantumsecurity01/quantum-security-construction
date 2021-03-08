@@ -4,22 +4,6 @@
 
 Website Development Project for Quantum Security
 
-## Table of Contents
-
-- [Main Features](#main-features)
-- [Installation](#installation)
-
-
-## Main features
-
-* Fully Responsive Ready.
-* Powered by bootstrap css framework.
-* Parallax effect.
-* Coming Soon Landing Page Template.
-* Email Subscribe Form & Contact Form.
-* Documented codes.
-* Quick Loading.
-
 <img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565">
 
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](http://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go][].
