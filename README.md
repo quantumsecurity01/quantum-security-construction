@@ -6,8 +6,6 @@ Website Development Project for Quantum Security
 
 # Installation
 
-After downloading the file from Themeforest, You will find Deadline.zip file. Then unzip the Deadline.zip and run the following commands on Deadline folder to get started with the project.
-
 ```
 yarn
 ```

@@ -1,6 +1,7 @@
 {
   "name": "@deadline/gatsbyjs",
   "description": "Gatsby Coming Soon",
+  "license": "UNLICENSED",
   "version": "1.0.0",
   "author": "RedQ Inc.",
   "dependencies": {
