@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono');
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+#app {
+  display: flex;
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #fbab7e;
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+}
+
+header {
+  display: flex;
+  position: relative;
+}
+header h1 {
+  font-family: 'Droid Sans Mono', monospace;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #000;
+}
+
+.NormalClock {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  align-items: center;
+}
+
+.NormalUnitContainer {
+  display: block;
+  position: relative;
+  width: 140px;
+  height: auto;
+  -webkit-perspective-origin: 50% 50%;
+  perspective-origin: 50% 50%;
+  -webkit-perspective: 300px;
+  perspective: 300px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.NormalupperCard,
+.NormallowerCard {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.NormalupperCard span,
+.NormallowerCard span {
+  font-size: 4em;
+  font-family: 'Roboto', monospace;
+  font-weight: 300;
+  color: #000;
+}
+
+.NormalupperCard {
+  align-items: flex-end;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.NormalupperCard span {
+  /* -webkit-transform: translateY(50%);
+	transform: translateY(50%); */
+}
+
+.NormallowerCard {
+  align-items: flex-start;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.NormallowerCard span {
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.NormalCard {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.NormalCard span {
+  font-family: 'Roboto', monospace;
+  font-size: 4em;
+  font-weight: 300;
+  color: #000;
+}
+.NormalCard.unfold {
+  top: 50%;
+  align-items: flex-start;
+  -webkit-transform-origin: 50% 0%;
+  transform-origin: 50% 0%;
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+  background-color: #fff;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.NormalCard.unfold span {
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.NormalCard.fold {
+  top: 0%;
+  align-items: flex-end;
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  -webkit-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+  background-color: #fff;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.NormalCard.fold span {
+  -webkit-transform: translateY(50%);
+  transform: translateY(50%);
+}
+.digitLabel {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-top: 12px;
+  text-align: center;
+}

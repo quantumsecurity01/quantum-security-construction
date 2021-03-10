@@ -1,0 +1,22 @@
+{
+  "headerText": "Change Language",
+  "welcome": "Welcome",
+  "title": "Coming Soon 19",
+  "logo": "Logo",
+  "ticker": "Our website in under construction",
+  "mainMessage": "We are launching soon please reload after minutes ",
+  "description": "We will come very quickly to offer you the best solution for your company.",
+  "buttonText": "NOTIFY ME",
+  "placeholder": "Enter email address",
+  "not_found": "404 - Page Not Found",
+  "copyrightText": "Copyright 2019 by RedQ, Inc. All rights reserved",
+  "languageText": "Language ",
+  "languageName": "English",
+  "successMsg": "Thank you for the submission",
+  "errorMsg": "Oops!!Something went wrong.",
+  "days": "days",
+  "hours": "hours",
+  "minutes": "minutes",
+  "seconds": "seconds",
+  "demoTxt": "DEMOS"
+}

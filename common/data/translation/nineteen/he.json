@@ -1,0 +1,22 @@
+{
+  "headerText": "שנה שפה",
+  "welcome": "ברוך הבא",
+  "title": "בקרוב",
+  "logo": "לוגו",
+  "ticker": "האתר שלנו נמצא בבנייה",
+  "mainMessage": "אנו משיקים בקרוב טען מחדש לאחר דקות",
+  "description": "אנו נגיע מהר מאוד להציע לך את הפיתרון הטוב ביותר עבור החברה שלך.",
+  "buttonText": "תודיע לי",
+  "placeholder": "הזן את כתובת הדואל",
+  "not_found": "404 - עמוד לא נמצא",
+  "copyrightText": "זכויות יוצרים 2019 מאת RedQ, Inc. כל הזכויות שמורות",
+  "languageText": "שפה ",
+  "languageName": "שפה עברית",
+  "successMsg": "תודה על ההגשה",
+  "errorMsg": "אופס! משהו השתבש.",
+  "days": "ימים",
+  "hours": "שעות",
+  "minutes": "דקות",
+  "seconds": "שניות",
+  "demoTxt": "DEMOS"
+}

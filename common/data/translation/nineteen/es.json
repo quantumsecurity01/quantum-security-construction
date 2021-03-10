@@ -1,0 +1,22 @@
+{
+  "headerText": "Cambiar idioma",
+  "welcome": "Bienvenido",
+  "title": "Próximamente 6",
+  "logo": "Logo",
+  "ticker": "Nuestro sitio web en construcción",
+  "mainMessage": "Estamos lanzando pronto, vuelva a cargar después de minutos",
+  "description": "Vendremos rápidamente para ofrecerle la mejor solución para su empresa.",
+  "buttonText": "NOTIFICARME",
+  "placeholder": "ingrese correo electrónico",
+  "not_found": "404 Pagina no encontrada",
+  "copyrightText": "Copyright 2019 por RedQ, Inc. Todos los derechos reservados.",
+  "languageText": "Idioma ",
+  "languageName": "lenguas españolas",
+  "successMsg": "Gracias por la sumisión",
+  "errorMsg": "Huy! Algo salió mal.",
+  "days": "dias",
+  "hours": "horas",
+  "minutes": "minutos",
+  "seconds": "segundos",
+  "demoTxt": "DEMOS"
+}

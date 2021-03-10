@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="60" viewBox="0 0 256 60">
+  <g id="Vector_Smart_Object2" data-name="Vector Smart Object2" transform="translate(-84.588 -210.956)">
+    <g id="Group_1527" data-name="Group 1527">
+      <path id="Path_17099" data-name="Path 17099" d="M120.889,260.937a21.619,21.619,0,1,1,43.238,0Z" fill="#eaf0f4"/>
+      <path id="Path_17100" data-name="Path 17100" d="M154.061,260.937a48.544,48.544,0,1,1,97.086,0Z" fill="#eaf0f4"/>
+      <path id="Path_17101" data-name="Path 17101" d="M219.935,260.939a33.242,33.242,0,0,1,63.873-13.175,17.307,17.307,0,0,1,11.541-4.392A17.508,17.508,0,0,1,312.8,260.939Z" fill="#eaf0f4"/>
+      <rect id="Rectangle_2815" data-name="Rectangle 2815" width="235.36" height="2.208" transform="translate(84.588 259.833)" fill="#d0d9e2"/>
+      <path id="Path_17102" data-name="Path 17102" d="M150.539,260.937h-2.193a20.523,20.523,0,1,0-41.045,0h-2.193a22.716,22.716,0,1,1,45.431,0Z" fill="#d0d9e2"/>
+      <path id="Path_17103" data-name="Path 17103" d="M237.559,260.937h-2.193a47.448,47.448,0,1,0-94.893,0H138.28a49.641,49.641,0,1,1,99.279,0Z" fill="#d0d9e2"/>
+      <path id="Path_17104" data-name="Path 17104" d="M299.208,260.939h-2.193a16.329,16.329,0,0,0-27.166-12.348l-1.137,1.011-.6-1.4a32.146,32.146,0,0,0-61.767,12.741h-2.193A34.335,34.335,0,0,1,269.535,246a18.442,18.442,0,0,1,11.13-3.735A18.629,18.629,0,0,1,299.208,260.939Z" fill="#d0d9e2"/>
+      <rect id="Rectangle_2816" data-name="Rectangle 2816" width="175.535" height="2.208" transform="translate(165.052 268.748)" fill="#d0d9e2"/>
+    </g>
+  </g>
+</svg>

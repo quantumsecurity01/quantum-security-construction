@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "name": "deadline",
+  "builds": [
+    {
+      "src": "/gatsbyjs/package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "public" }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/gatsbyjs/$1",
+      "headers": {
+        "x-request-path": "$1"
+      }
+    }
+  ]
+}

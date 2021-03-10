@@ -1,0 +1,7 @@
+{
+  "name": "@deadline/components",
+  "version": "1.0.0",
+  "description": "Its Contain All the reuseable components which is used for building coming-soon pages",
+  "main": "index.js",
+  "private": true
+}

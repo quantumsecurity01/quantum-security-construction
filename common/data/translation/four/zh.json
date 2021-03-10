@@ -1,0 +1,22 @@
+{
+	"headerText": "標題文本",
+	"welcome": "歡迎",
+	"title": "即將推出4",
+	"logo": "商標",
+	"ticker": "我們的網站正在建設中",
+	"mainMessage": "我們即將推出版本，請在幾天后重新加載",
+	"description": "我們很快就會為您的公司提供最佳解決方案。感謝您的耐心和對我們的信任",
+	"buttonText": "提醒我",
+	"placeholder": "輸入電郵地址",
+	"not_found": "404頁面不存在",
+	"copyrightText": "版權所有2019 by RedQ，Inc。保留所有權利",
+	"languageText": "語言 ",
+	"languageName": "中文",
+	"successMsg": "謝謝你的提交",
+	"errorMsg": "哎呀！出事了。",
+	"days": "天",
+	"hours": "小時",
+	"minutes": "分鐘",
+	"seconds": "秒",
+	"demoTxt": "DEMOS"
+}
