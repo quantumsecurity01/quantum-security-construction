@@ -38,8 +38,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId:
-          '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',
+        trackingId: 'G-J4S423ZT1G',
         head: true,
       },
     },
