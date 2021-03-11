@@ -74,3 +74,4 @@ yarn-error.log
 .next
 out
 .vercel
+yarn.lock
