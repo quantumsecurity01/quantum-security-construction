@@ -1,7 +1,7 @@
 {
   "name": "deadline",
   "version": "1.0.0",
-  "author": "RedQ, Inc.",
+  "author": "Quantum Security.",
   "private": true,
   "workspaces": [
     "components",
