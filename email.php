@@ -1,5 +1,5 @@
 <?php
-$subject = 'You Got Message'; // Subject of your email
+$subject = 'Website Messenger'; // Subject of your email
 $to = 'info@quantum.co.za';  //Recipient's E-mail
 $emailTo = $_REQUEST['email'];
 
