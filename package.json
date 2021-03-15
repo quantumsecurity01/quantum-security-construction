@@ -1,0 +1,22 @@
+{
+  "name": "quantum-security-construction",
+  "version": "1.0.0",
+  "description": "Quantum Security Under Construction",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumsecurity01/quantum-security-construction.git"
+  },
+  "author": "don Pablo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantumsecurity01/quantum-security-construction/issues"
+  },
+  "homepage": "https://github.com/quantumsecurity01/quantum-security-construction#readme",
+  "devDependencies": {
+    "husky": "^5.1.3"
+  }
+}
