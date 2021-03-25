@@ -2,4 +2,5 @@
   --primary-color: #da1921;
   --primary-color-rgb: 218, 25, 33;
 }
-
+      #content.dark, section.dark {
+    background: url(/videos/Camera-dark.jpg);}
