@@ -2,3 +2,5 @@
   --primary-color: #003050;
   --primary-color-rgb: 0, 48, 80;
 }
+      #content.dark, section.dark {
+    background: url(Camera-Banner.jpg);}
